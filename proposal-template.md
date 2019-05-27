@@ -1,5 +1,4 @@
 # Location-based Instagram
-## ..
 
 Group members: 
 * Le QiaoZhi
@@ -15,15 +14,11 @@ When going to a certain location, it is very inconvenient for users to find phot
 ## Solution
 Our solution is a location-based instagram, where artists can upload their professional photographs of locations. Users would be able to access these photos on a map interface, and sneak a peek of these places before visiting them. 
 
-What’s your solution, in one sentence? 
-Can you find an analogy to describe it? 
-
 ## Assumptions
-What assumptions are we making that the project depends on?
+One assumption is that these photographers and artists have taken photographs of these locations, and are willing to upload them onto the app, where everyone can access them. Another assumption is that users are willing to check photos of a place in a completely separate app. 
 
 ## Unique Selling Point
-Our version will succeed because
+Our version will succeed because ...
 
 ## Competitors
-What competitors are there? List 5. Surely you can google 5.
-Why are we better or different?
+...
