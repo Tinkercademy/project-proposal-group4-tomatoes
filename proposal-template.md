@@ -1,21 +1,20 @@
-# Ridiculously Catchy Title
-## Super Catchy Slogan
+# Location-based Instagram
+## ..
 
 Group members: 
-* Apple
-* Banana
-* Char Kway Teow
-
-Feel free to change the headers, but do address the points raised. 
+* Le QiaoZhi
+* Mihir Niyogi 
 
 ## Audience
-Whose problems are we trying to solve?
+* Artists, Photographers
+* Art-lovers, photography-lovers, public 
 
 ## Problems
-What problems are people facing?
-How are these already being solved?
+When going to a certain location, it is very inconvenient for users to find photographs of locations they wish to visit. Sometimes, they may not know if they really want to visit the place unless they see a picture of it first.
 
 ## Solution
+Our solution is a location-based instagram, where artists can upload their professional photographs of locations. Users would be able to access these photos on a map interface, and sneak a peek of these places before visiting them. 
+
 What’s your solution, in one sentence? 
 Can you find an analogy to describe it? 
 
