@@ -21,4 +21,6 @@ One assumption is that these photographers and artists have taken photographs of
 Our version will succeed because ...
 
 ## Competitors
-...
+* Behance, by Adobe (but it's for categorical images, not location-based)
+* Shotnote (but it's for sharing with friends, not the general public)
+* EyeEm (but it's categorical)
