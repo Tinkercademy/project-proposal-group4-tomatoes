@@ -1,7 +1,7 @@
 # Location-based Instagram
 
 Group members: 
-* Le QiaoZhi
+* Lei QiaoZhi
 * Mihir Niyogi 
 
 ## Audience
@@ -24,3 +24,4 @@ Our version will succeed because ...
 * Behance, by Adobe (but it's for categorical images, not location-based)
 * Shotnote (but it's for sharing with friends, not the general public)
 * EyeEm (but it's categorical)
+* LocationScout 
